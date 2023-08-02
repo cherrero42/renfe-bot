@@ -26,6 +26,7 @@ something like threading or multiprocessing in Python, or even asynchronous
 programming with asyncio. With Celery, I can start a new task for each user
 request.
 
+
 - Error Handling and Retries: With the tasks running in Celery, I can easily
 configure it to handle failures and retries. I can specify a maximum number of
 retries and a delay between retries.
