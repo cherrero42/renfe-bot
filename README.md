@@ -78,3 +78,4 @@ You can see the full license text in the LICENSE file.
 - [x] Implement Telegram bot
 - [x] Add installation instructions
 - [x] Add usage instructions
+
